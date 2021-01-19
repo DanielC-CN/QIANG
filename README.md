@@ -1,3 +1,1 @@
 # QIANG
-
-hello world!
